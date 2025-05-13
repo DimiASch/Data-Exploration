@@ -1,0 +1,17 @@
+pyxml2pdf
+requests
+pandas
+reportlab
+datetime
+argparse
+urllib
+habanero
+json
+time
+nltk
+re
+csv
+matplotlib
+pymupdf
+bs4
+tkinter
